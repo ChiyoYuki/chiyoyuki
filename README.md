@@ -9,7 +9,7 @@ Hi!Bonjour!Hola!你好!こんにちは!千代有希です.
 
 ### 我是？
 
-计算机相关专业在读，什么都不会的废物一个
+计算机相关专业在读，什么都不会的废物一个.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyoyuki)
 
