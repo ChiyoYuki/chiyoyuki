@@ -11,6 +11,5 @@ Hi!Bonjour!Hola!你好!こんにちは!千代有希です.
 
 计算机相关专业在读，什么都不会的废物一个.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyoyuki)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyoyuki)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyoyuki&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyoyuki&theme=tokyonight)
