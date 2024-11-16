@@ -14,5 +14,3 @@ Hi!Bonjour!Hola!你好!こんにちは!千代有希です.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyoyuki)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyoyuki)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chiyoyuki)
