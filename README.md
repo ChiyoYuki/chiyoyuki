@@ -16,5 +16,5 @@
 
 无业游民，什么都不会的废物一个喵.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![ChiyoYuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiyoYuki&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiyoYuki&hide=html,css,javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
