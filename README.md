@@ -19,4 +19,3 @@
 ![ChiyoYuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiyoYuki&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiyoYuki&hide=html,css,javascript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://stats.justsong.cn/api/codeforces/?username=chiyoyuki&theme=dark" alt="ChiyoYuki's CodeForces Stats" width="49%" /> 
