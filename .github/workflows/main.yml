@@ -44,7 +44,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://chiyoyuki.uk/rss.xml
+          plugin_rss_source: https://blog.chiyo.uk/rss.xml
           plugin_rss_limit: 4
 
       # - name: Recent activity charts
