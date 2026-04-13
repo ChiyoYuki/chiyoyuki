@@ -19,10 +19,10 @@
 
 #### Part 1
 
-- [ ] Single Variable Calculus
-- [ ] Multivarible Calculus
-- [ ] Differential Equations
-- [ ] Complex Variables with Applications
+- [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+- [ ] [Multivarible Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
+- [ ] [Differential Equations](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+- [ ] [Complex Variables with Applications](https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/)
 - [ ] Ordinary Differential Equations
 - [ ] Partial Differential Equations
 - [ ] Numerical Solutions of Partial Differential Equations
@@ -30,10 +30,10 @@
 
 #### Part 2
 
-- [ ] Linear Algebra
+- [ ] [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [ ] Abstract Algebra
 - [ ] Elementary Number Theory
-- [ ] Introduction To Probability And Statistics
+- [ ] [Introduction To Probability And Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
 - [ ] Basic Topology
 - [ ] Real Analysis
 - [ ] Functional Analysis
