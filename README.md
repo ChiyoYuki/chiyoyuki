@@ -8,12 +8,12 @@
 - [x] zh-CN & zh-TW
 - [x] en-UK & en-US (**NOT** good at)
 - [ ] ja-JP (学ぶ)
-- [x] Markdown
+- [ ] qmd (learning)
 - [x] Typst (learning)
 - [x] C/C++ (a little)
 - [x] Haskell (learning)
 - [ ] Rocq (plan to learn)
-- [ ] Lean (plan to learn
+- [ ] Lean (plan to learn)
 
 ### Math learning plan
 
@@ -33,7 +33,7 @@
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [ ] Abstract Algebra
 - [ ] Elementary Number Theory
-- [ ] [Introduction To Probability And Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
+- [ ] [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
 - [ ] Basic Topology
 - [ ] Real Analysis
 - [ ] Functional Analysis
