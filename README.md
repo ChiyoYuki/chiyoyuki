@@ -46,4 +46,4 @@
 <p align="left"><a href="https://github.com/ChiyoYuki"><img src="./github-metrics.svg" alt="Metrics" width="400"></a></p>
 <p align="left"><a href="https://github.com/ChiyoYuki"><img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="400"></a></p>
 <p align="left"><a href="https://github.com/ChiyoYuki?tab=stars"><img src="./metrics.plugin.stars.svg" alt="Stars" width="400"></a></p>
-<p align="left"><a href="https://chiyoyuki.uk"><img src="./metrics.plugin.rss.svg" alt="My blog" width="400"></a></p>
+<p align="left"><a href="https://blog.chiyo.uk"><img src="./metrics.plugin.rss.svg" alt="My blog" width="400"></a></p>
